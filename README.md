@@ -107,7 +107,11 @@ make clean
 
 ## 📸 Screenshots
 
-*Gameplay screenshots coming soon.*
+### Gameplay
+![Splashmem gameplay](screenshots/gameplay.png)
+
+### Game result
+![Splashmem victory screen](screenshots/victory.png)
 
 ## 🎓 Project Context
 
